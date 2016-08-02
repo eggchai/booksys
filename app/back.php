@@ -1,8 +1,21 @@
 <div id="content">
-<form name="input" action="     " method="get">
-Student ID:
-<input type="text" name="
+<form>
+Student ID   :
+<input type="text" name="studentid" />
+<br />
+Book Number:
+<input type="text" name="booknum" />
+<br />
+<input type="submit" value="OK" />
+</form>
 </div>
+
+
+
+
+
+
+
 
 
 
