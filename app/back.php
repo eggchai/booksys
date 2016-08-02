@@ -1,4 +1,5 @@
 <div id="content">
+<div id="pad">
 <form>
 Student ID   :
 <input type="text" name="studentid" />
@@ -9,14 +10,4 @@ Book Number:
 <input type="submit" value="OK" />
 </form>
 </div>
-
-
-
-
-
-
-
-
-
-
-
+</div>
